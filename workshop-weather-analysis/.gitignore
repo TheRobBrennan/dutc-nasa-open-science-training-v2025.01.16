@@ -1,0 +1,9 @@
+
+# pixi environments
+.pixi
+*.egg-info
+data/weather.csv
+
+# MyST build outputs
+_build
+.ipynb_checkpoints
