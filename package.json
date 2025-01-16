@@ -1,5 +1,5 @@
 {
-  "name": "explore-python-and-jupyter",
+  "name": "dutc-nasa-open-science-training-v2025.01.16",
   "version": "0.0.0",
   "scripts": {
     "setup": "clear && ./manage.sh setup",
@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TheRobBrennan/explore-python-and-jupyter.git"
+    "url": "git+https://github.com/TheRobBrennan/dutc-nasa-open-science-training-v2025.01.16.git"
   },
   "author": "Rob Brennan <rob@sploosh.ai>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TheRobBrennan/explore-python-and-jupyter/issues"
+    "url": "https://github.com/TheRobBrennan/dutc-nasa-open-science-training-v2025.01.16/issues"
   },
-  "homepage": "https://github.com/TheRobBrennan/explore-python-and-jupyter#readme"
+  "homepage": "https://github.com/TheRobBrennan/dutc-nasa-open-science-training-v2025.01.16#readme"
 }
