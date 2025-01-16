@@ -1,6 +1,6 @@
 # Welcome
 
-This project aims to explore working with [Python](https://www.python.org) and [Jupyter](https://pypi.org/project/jupyter/) notebooks.
+This project aims to explore working with [Python](https://www.python.org) and [Jupyter](https://pypi.org/project/jupyter/) notebooks based on ideas presented from today's workshop - [DUTC's NASA Open Science Training – Level Up Your Open Science Skills](https://www.youtube.com/live/uQLo8vKpk6w).
 
 ![Screenshot of a Jupyter notebook in VS Code](./screenshots/screenshot.png)
 
